@@ -1,0 +1,14 @@
+{  
+  "card":{  
+    "name":"Narset, Enlightened Master",
+    "manaCost":"{3}{U}{R}{W}",
+    "cmc":6,
+    "colors":[  
+      "White",
+      "Blue",
+      "Red"
+    ],
+    "type":"Legendary Creature — Human Monk",
+  }
+}
+
